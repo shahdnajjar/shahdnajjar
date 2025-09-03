@@ -30,9 +30,9 @@
 ---
 
 ## 📊 GitHub Stats
-![Coll's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shahdoud&show_icons=true&theme=tokyonight)  
+![Coll's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahdnajjar&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahdoud&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shahdnajjar&layout=compact&theme=tokyonight)
 
 ---
 
